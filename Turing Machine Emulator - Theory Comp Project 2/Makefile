@@ -7,7 +7,7 @@
 #
 # This is the Makefile.
 #
-# Author: A. G. Werschulz
+# Author: Professor A. G. Werschulz
 # Date:   25 February 2020
 #
 ######################################################################
