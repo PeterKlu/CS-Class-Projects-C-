@@ -6,7 +6,7 @@ Turing Machine Emulator
 •	Prompts for and reads input strings, one per line
 •	Traces the progress of the Turing machine on a string, and prints an acceptance or rejection message if the Turing Machine halts on said string
 
-DES Encryption Emulator
+DES Encryption Emulator (in the CISC3580 Project 2 folder)
 •	A program that attempts to emulate DES encryption on a given string
 •	Encryption is done by generating an array to represent the 64 bits in the DES plaintext with random letters while a key of the same size is created at the same time and filled with random numbers that correspond to each letter
 •	Decryption is done by comparing each letter in the string with a number in the key
